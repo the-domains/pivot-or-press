@@ -1,0 +1,28 @@
+name: Pivot or Press
+favicon: null
+layout_spectrum: 0.03855143371038139
+typography_spectrum: 0.19013856374658644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9555594527628273
+  lightness: 0.6394898695871234
+  saturation: 0.09794474532827735
+  rhythmicContrast: 0.870223009493202
+purpose: []
