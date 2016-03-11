@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pivot or Press]]></title>
         <description><![CDATA[Pivot or Press]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pivot-or-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 10:01:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 12:52:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pivot-or-press/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Seth Godin Manages His Life - Rules, Principles, and Obsessions]]></title>
+            <description><![CDATA[<article><h1>How Seth Godin Manages His Life - Rules, Principles, and Obsessions</h1><p>"We can't out-obedience the competition." - Seth Godin I expected this episode to be amazing, and Seth 10x'd expectations. He's incredible. Seth Godin (@thisissethsblog) is the author of 17 bestselling books that have been translated into more than 35 languages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3445af658922f3f2f57ccb3d4d644df05a666713.jpg"></article>]]></description>
+            <link>http://fourhourworkweek.com/2016/02/10/seth-godin/</link>
+            <guid isPermaLink="false">f49550ac-9721-42ad-afc3-23613f1148ff</guid>
+            <pubDate>Fri, 11 Mar 2016 12:52:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Up and Running with the Grid</p>]]></description>
-            <link>undefined09d5f33e-34c3-4c96-94bb-4ea87ccbb2cd/index.html</link>
+            <link>https://thegrid.ai/pivot-or-press/09d5f33e-34c3-4c96-94bb-4ea87ccbb2cd/index.html</link>
             <guid isPermaLink="false">09d5f33e-34c3-4c96-94bb-4ea87ccbb2cd</guid>
             <pubDate>Fri, 11 Mar 2016 10:00:22 GMT</pubDate>
         </item>
